@@ -5,7 +5,10 @@ find . -type f -print0 | xargs -0 sed -i 's/LITECOIN/ACHIEVERPOINT/g'
 find . -type f -print0 | xargs -0 sed -i 's/LTC/AP/g'
 
 find . -type f -print0 | xargs -0 sed -i 's/9333/22333/g'
-find . -type f -print0 | xargs -0 sed -i 's/22332/22332/g'
+find . -type f -print0 | xargs -0 sed -i 's/9332/22332/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/19333/21333/g'
+find . -type f -print0 | xargs -0 sed -i 's/19332/21332/g'
  
 openssl ecparam -genkey -name secp256k1 -out alertkey.pem
 openssl ec -in alertkey.pem -text > alertkey.hex

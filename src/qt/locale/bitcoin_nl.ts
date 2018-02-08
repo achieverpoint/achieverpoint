@@ -2239,8 +2239,8 @@ Adres: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22333 or testnet: 122333)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 22333 of testnet: 122333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 22333 or testnet: 21333)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 22333 of testnet: 21333)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2274,8 +2274,8 @@ Adres: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22332 or testnet: 122332)</source>
-        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 22332 of testnet: 122332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22332 or testnet: 21332)</source>
+        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 22332 of testnet: 21332)</translation>
     </message>
     <message>
         <location line="+37"/>
